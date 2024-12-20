@@ -14,3 +14,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+``` javascript
+var number = 32
+var number = 15
+var hello = "Hey"
+```
