@@ -14,5 +14,3 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![Image of thunderstruck meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fs02bi01elmha1.jpg)
-
